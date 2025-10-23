@@ -120,28 +120,21 @@ L'interface web offre une vue consolidée et interactive des vulnérabilités, a
 ![alt text](images/app1.png)
 Figure 3: Aperçu de l'interface d'acceuil de lancement de scan.
 
-
 ![alt text](images/app2.png)
 Figure 4: Aperçu du tableau de bord principal affichant un résumé des vulnérabilités. 
 
 ![alt text](images/app3.png)
 Figure 5: Aperçu du tableau de bord principal affichant un résumé des vulnérabilités.
-
 ## Détail des Vulnérabilités et Recommandations
 Détail des Vulnérabilités et Recommandations
 
 Chaque vulnérabilité est présentée avec son niveau de criticité, une description détaillée et des identifiants uniques.
-
 ![alt text](images/app4.png)
-
-
 Figure 6: Visualisation des vulnérabilité.
 
 ![alt text](images/app5.png)
 Figure 7: Visualisation des recommendations.
-
 ## Rapport PDF Professionnel
-
 Génération de rapports PDF clairs, complets et structurés pour une documentation formelle et un suivi aisé.
 
 ![alt text](images/rapport.PNG)
